@@ -219,9 +219,12 @@ knitr::include_graphics(c("OddForm.png","EvenForm.png"))
 
 ### Scoreboard[^1]
 
-- (RQ1) Instructor agreement ($\text{QWK} \approx 0.7 \text{ to } 0.8+$)
->- (RQ1) UTA agreement ($\text{QWK} \approx 0.6 \text{ to } 0.7+$)
->- **What about... NLP algorithm & instructor agreement?**
+\small
+
+- (RQ1) Instructor agreement ($\text{QWK} \approx 0.7 \text{ to } 0.8+$)  
+- (RQ1) UTA agreement ($\text{QWK} \approx 0.6 \text{ to } 0.7+$)  
+- **What about... NLP algorithm & instructor agreement?**  
+ 
 <!-- - NLP algorithm agreement with instructors ($\text{QWK} \approx 0.7+$) -->
 <!-- - Human-Algorithm partnership may be even better? ($\approx 0.85+$) -->
 <!-- - Pursuing multiple avenues for grouping & feedback -->
@@ -301,10 +304,11 @@ Semantic Feature-Wide Transformation Relation Network (SFRN):
 
 ### Scoreboard[^1]
 
-- (RQ1) Instructor agreement ($\text{QWK} \approx 0.7 \text{ to } 0.8+$)
-- (RQ1) UTA agreement ($\text{QWK} \approx 0.6 \text{ to } 0.7+$)
->- (RQ2) NLP algorithm & instructor agreement ($\text{QWK} \approx 0.7+$)
->- **What about...Human-Algorithm partnership?**
+- (RQ1) Instructor agreement ($\text{QWK} \approx 0.7 \text{ to } 0.8+$)  
+- (RQ1) UTA agreement ($\text{QWK} \approx 0.6 \text{ to } 0.7+$)  
+- (RQ2) NLP algorithm & instructor agreement ($\text{QWK} \approx 0.7+$)  
+- **What about...Human-Algorithm partnership?**  
+
 <!-- - Human-Algorithm partnership may be even better? ($\approx 0.85+$) -->
 <!-- - Pursuing multiple avenues for grouping & feedback -->
 
@@ -376,11 +380,11 @@ Want to evaluate accuracy of marking algorithm when designed to "defer" to human
 
 ### Scoreboard[^2]
 
-- (RQ1) Instructor agreement ($\text{QWK} \approx 0.7 \text{ to } 0.8+$)
-- (RQ1) UTA agreement ($\text{QWK} \approx 0.6 \text{ to } 0.7+$)
-- (RQ2) NLP algorithm agreement with instructors ($\text{QWK} \approx 0.7+$)
->- (RQ2) Human-Algorithm partnership may be even better? ($\approx 0.85+$)
->- **Can we cluster responses & provide feedback?**
+- (RQ1) Instructor agreement ($\text{QWK} \approx 0.7 \text{ to } 0.8+$)  
+- (RQ1) UTA agreement ($\text{QWK} \approx 0.6 \text{ to } 0.7+$)  
+- (RQ2) NLP algorithm agreement with instructors ($\text{QWK} \approx 0.7+$)  
+- (RQ2) Human-Algorithm partnership may be even better? ($\approx 0.85+$)  
+- **Can we cluster responses & provide feedback?**  
 
 
 [^2]: Li, et al., (2023)
@@ -413,12 +417,22 @@ Want to evaluate accuracy of marking algorithm when designed to "defer" to human
 
 
 
+
+
+# Feedback: Just let AI do it
+
+- undermines instructor benefits of formative assessment
+- conflicts with goal statement (e.g., amplify, not supplant, instructor effort)
+- additional concerns...
+
+
 # {.plain}
 
 <!-- \noindent\hspace*{-1cm}\includegraphics[width=\paperwidth]{terminator.png}  -->
 
 
 ![Image credit: https://www.slugmag.com/arts/film/film-reviews/terminator-genisys-time-is-not-on-my-side/](terminator.png){ width=100% }
+
 
 
 # Feedback: Just let AI do it
@@ -432,7 +446,7 @@ see, e.g., U.S. Department of Education, Office of Educational Technology (2023)
 
 # Feedback Avenues 
 
-- ~~Just let AI do it~~  ...too dystopian 
+- ~~Just let AI do it~~  
 - Classifier / Clustering Tools?  ...cursed? 
 - Topological Data Analysis Tools?  ...interesting, but long road
 - Guided Reflection? 
@@ -465,6 +479,9 @@ see, e.g., U.S. Department of Education, Office of Educational Technology (2023)
     - Promising work for NLP application of TDA, broadly
     - Viability for feedback is still a long road
 
+<!-- # Feedback: Guided Reflection with Comparative Judgment -->
+
+
 
 # Feedback: Guided Reflection with Comparative Judgment
 
@@ -494,13 +511,13 @@ see, e.g., U.S. Department of Education, Office of Educational Technology (2023)
     - Compare agreement between NLP & humans
     - Evaluate scalable, personalized feedback solutions
 
-### Scoreboard[^2]
+### Scoreboard (Final)
 
-- (RQ1) Instructor agreement ($\text{QWK} \approx 0.7 \text{ to } 0.8+$)
-- (RQ1) UTA agreement ($\text{QWK} \approx 0.6 \text{ to } 0.7+$)
-- (RQ2) NLP algorithm agreement with instructors ($\text{QWK} \approx 0.7+$)
-- (RQ2) Human-Algorithm partnership may be even better? ($\approx 0.85+$)
-- (RQ3) Clustering performance? (one of several avenues to pursue)
+- (RQ1) Instructor agreement ($\text{QWK} \approx 0.7 \text{ to } 0.8+$)  
+- (RQ1) UTA agreement ($\text{QWK} \approx 0.6 \text{ to } 0.7+$)  
+- (RQ2) NLP algorithm agreement with instructors ($\text{QWK} \approx 0.7+$)  
+- (RQ2) Human-Algorithm partnership may be even better? ($\approx 0.85+$)  
+- (RQ3) Clustering performance? (one of several avenues to pursue)  
 
 
 
@@ -521,7 +538,7 @@ see, e.g., U.S. Department of Education, Office of Educational Technology (2023)
 # Current Events
 
 - challenge system with diverse tasks, institutions, student populations;
-    - partnering with ISU, MSU, PSU, UCSB, UF, UTEP, & UoA (NZ)
+    - partnering with ISU, MSU, PSU, UCSB, UF, UTEP, & UoA
     - both "consensus" tasks & "local" tasks
     - approx 44,000 responses from ~ 13,000 students
     - targeting languistic diversity
