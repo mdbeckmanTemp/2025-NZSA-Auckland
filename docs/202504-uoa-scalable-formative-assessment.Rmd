@@ -304,6 +304,9 @@ Semantic Feature-Wide Transformation Relation Network (SFRN):
 
 ### Scoreboard[^1]
 
+\small
+
+
 - (RQ1) Instructor agreement ($\text{QWK} \approx 0.7 \text{ to } 0.8+$)  
 - (RQ1) UTA agreement ($\text{QWK} \approx 0.6 \text{ to } 0.7+$)  
 - (RQ2) NLP algorithm & instructor agreement ($\text{QWK} \approx 0.7+$)  
@@ -379,6 +382,9 @@ Want to evaluate accuracy of marking algorithm when designed to "defer" to human
     - Evaluate scalable, personalized feedback solutions
 
 ### Scoreboard[^2]
+
+\small
+
 
 - (RQ1) Instructor agreement ($\text{QWK} \approx 0.7 \text{ to } 0.8+$)  
 - (RQ1) UTA agreement ($\text{QWK} \approx 0.6 \text{ to } 0.7+$)  
@@ -512,6 +518,9 @@ see, e.g., U.S. Department of Education, Office of Educational Technology (2023)
     - Evaluate scalable, personalized feedback solutions
 
 ### Scoreboard (Final)
+
+\small
+
 
 - (RQ1) Instructor agreement ($\text{QWK} \approx 0.7 \text{ to } 0.8+$)  
 - (RQ1) UTA agreement ($\text{QWK} \approx 0.6 \text{ to } 0.7+$)  
