@@ -460,8 +460,8 @@ U.S. Department of Education, Office of Educational Technology (2023). *Artifici
 # Feedback Avenues 
 
 - ~~Just let AI do it~~  
-- Classifier / Clustering Tools?  ...cursed? 
-- Topological Data Analysis Tools?  ...interesting, but long road
+- Classifier / Clustering Tools?   
+- Topological Data Analysis Tools?  
 - Guided Reflection? 
 
 
