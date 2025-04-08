@@ -35,7 +35,7 @@ output:
 Research sponsored by:
 
 - US National Science Foundation (NSF DUE-2236150: Project CLASSIFIES)
-- Penn State Center for Socially Responsible Artificial Intelligence
+- Penn State Center for Socially Responsible Artificial Intelligence (<https://csrai.psu.edu/>)
 - Strategic partnership between University of Auckland and Penn State University
 
 Travel support sponsored in part by:
