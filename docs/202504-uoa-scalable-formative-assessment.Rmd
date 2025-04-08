@@ -441,14 +441,21 @@ Want to evaluate accuracy of marking algorithm when designed to "defer" to human
 
 
 
-# Feedback: Just let AI do it
+# Feedback: Just let AI do it?[^3]
 
 - undermines instructor benefits of formative assessment
 - conflicts with goal statement (e.g., amplify, not supplant, instructor effort)
-- additional concerns...
+- Our work has found AI to be less than optimal anyway (Wei et al., in review)
+- Also,
 
-see, e.g., U.S. Department of Education, Office of Educational Technology (2023). *Artificial Intelligence and Future of Teaching and Learning: Insights and Recommendations*, Washington, DC. 
+\small 
 
+U.S. Department of Education, Office of Educational Technology (2023). *Artificial Intelligence and Future of Teaching and Learning: Insights and Recommendations*, Washington, DC. 
+
+![](US-DOE-recommendations.png){ width=80% }
+
+
+[^3]: Wei, Beckman, Pearl, & Passonneau (in review). Concept-based Rubrics Improve LLM Formative Assessment and Data Synthesis.
 
 # Feedback Avenues 
 
