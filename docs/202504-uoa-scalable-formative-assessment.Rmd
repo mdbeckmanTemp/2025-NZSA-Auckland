@@ -310,7 +310,7 @@ Semantic Feature-Wide Transformation Relation Network (SFRN):
 - (RQ1) Instructor agreement ($\text{QWK} \approx 0.7 \text{ to } 0.8+$)  
 - (RQ1) UTA agreement ($\text{QWK} \approx 0.6 \text{ to } 0.7+$)  
 - (RQ2) NLP algorithm & instructor agreement ($\text{QWK} \approx 0.7+$)  
-- **What about...Human-Algorithm partnership?**  
+- **What if we combine the Human & Machine??**  
 
 <!-- - Human-Algorithm partnership may be even better? ($\approx 0.85+$) -->
 <!-- - Pursuing multiple avenues for grouping & feedback -->
@@ -318,7 +318,7 @@ Semantic Feature-Wide Transformation Relation Network (SFRN):
 
 
 
-# Human-Machine Partnership?
+# Human-Machine Combination?
 
 ![Image credit: https://www.slugmag.com/arts/film/film-reviews/terminator-genisys-time-is-not-on-my-side/](terminator.png){ width=90% }
 
