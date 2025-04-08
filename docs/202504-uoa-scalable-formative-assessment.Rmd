@@ -220,8 +220,8 @@ knitr::include_graphics(c("OddForm.png","EvenForm.png"))
 ### Scoreboard[^1]
 
 - (RQ1) Instructor agreement ($\text{QWK} \approx 0.7 \text{ to } 0.8+$)
-- (RQ1) UTA agreement ($\text{QWK} \approx 0.6 \text{ to } 0.7+$)
-- What about... NLP algorithm & instructor agreement?
+>- (RQ1) UTA agreement ($\text{QWK} \approx 0.6 \text{ to } 0.7+$)
+>- **What about... NLP algorithm & instructor agreement?**
 <!-- - NLP algorithm agreement with instructors ($\text{QWK} \approx 0.7+$) -->
 <!-- - Human-Algorithm partnership may be even better? ($\approx 0.85+$) -->
 <!-- - Pursuing multiple avenues for grouping & feedback -->
@@ -303,8 +303,8 @@ Semantic Feature-Wide Transformation Relation Network (SFRN):
 
 - (RQ1) Instructor agreement ($\text{QWK} \approx 0.7 \text{ to } 0.8+$)
 - (RQ1) UTA agreement ($\text{QWK} \approx 0.6 \text{ to } 0.7+$)
-- (RQ2) NLP algorithm & instructor agreement ($\text{QWK} \approx 0.7+$)
-- What about...Human-Algorithm partnership?
+>- (RQ2) NLP algorithm & instructor agreement ($\text{QWK} \approx 0.7+$)
+>- **What about...Human-Algorithm partnership?**
 <!-- - Human-Algorithm partnership may be even better? ($\approx 0.85+$) -->
 <!-- - Pursuing multiple avenues for grouping & feedback -->
 
@@ -364,6 +364,27 @@ Want to evaluate accuracy of marking algorithm when designed to "defer" to human
 <!-- | 0.95          |  0.418         | 0.931            | -->
 
 <!-- ![](HIL-deferral.png) -->
+
+
+# Results
+
+- "short-answer" tasks are good for students, but hard to scale
+- Can NLP tools help instructors give students feedback?
+    - Evaluate & group student responses
+    - Compare agreement between NLP & humans
+    - Evaluate scalable, personalized feedback solutions
+
+### Scoreboard[^2]
+
+- (RQ1) Instructor agreement ($\text{QWK} \approx 0.7 \text{ to } 0.8+$)
+- (RQ1) UTA agreement ($\text{QWK} \approx 0.6 \text{ to } 0.7+$)
+- (RQ2) NLP algorithm agreement with instructors ($\text{QWK} \approx 0.7+$)
+>- (RQ2) Human-Algorithm partnership may be even better? ($\approx 0.85+$)
+>- **Can we cluster responses & provide feedback?**
+
+
+[^2]: Li, et al., (2023)
+
 
 
 # Methods (RQ3)
@@ -464,6 +485,22 @@ see, e.g., U.S. Department of Education, Office of Educational Technology (2023)
     \end{itemize}
   \end{column}
 \end{columns}
+
+# Results
+
+- "short-answer" tasks are good for students, but hard to scale
+- Can NLP tools help instructors give students feedback?
+    - Evaluate & group student responses
+    - Compare agreement between NLP & humans
+    - Evaluate scalable, personalized feedback solutions
+
+### Scoreboard[^2]
+
+- (RQ1) Instructor agreement ($\text{QWK} \approx 0.7 \text{ to } 0.8+$)
+- (RQ1) UTA agreement ($\text{QWK} \approx 0.6 \text{ to } 0.7+$)
+- (RQ2) NLP algorithm agreement with instructors ($\text{QWK} \approx 0.7+$)
+- (RQ2) Human-Algorithm partnership may be even better? ($\approx 0.85+$)
+- (RQ3) Clustering performance? (one of several avenues to pursue)
 
 
 
